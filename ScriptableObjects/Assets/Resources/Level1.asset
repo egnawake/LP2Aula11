@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e255303fbf6d9f74fa67d2e909905069, type: 3}
+  m_Name: Level1
+  m_EditorClassIdentifier: 
+  enemySpawnPoints:
+  - {x: 4, y: 0}
+  - {x: 2, y: 8}
+  - {x: 1, y: 2}
+  backgroundColor: {r: 0.20069422, g: 0.49909467, b: 0.7735849, a: 0}
